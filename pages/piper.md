@@ -1,6 +1,6 @@
 ---
 title: Piper
-layout: page
+layout: default
 permalink: /piper.html
 # include CollectionBuilder info at bottom
 credits: true
