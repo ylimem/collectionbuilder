@@ -14,9 +14,11 @@ credits: true
 
 ## About Piper
 
-- her middle name is Elizabeth
-- she loves matcha (oat milk with honey)
-- she has a lot of dogs
+##### Not too much info though...
+
+1. her middle name is Elizabeth
+2. she loves matcha (oat milk with honey)
+3. she has a lot of dogs
 
 
 
