@@ -5,7 +5,7 @@ permalink: /keywordeg.html
 # see _data/config-metadata.csv for display options
 # do not add content to this file
 ---
-![Photo by Joanna Kosinska on Unsplash](https://github.com/ylimem/collectionbuilder/objects/history_unsplash.jpg)  
+![Photo by Joanna Kosinska on Unsplash](/objects/history_unsplash.jpg)
 
 # What is a Keyword? 
 
