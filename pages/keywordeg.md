@@ -42,5 +42,6 @@ Sheridan Libraries is a sustaining, institutional, and technology partner and co
 
 ## LifexCode  
 
-[LifexCode: Digital Humanities Against Enclosure](http://lifexcode.org) offers a grammar of refusal and a language of freedom for the (digital) humanities. Founded in 2020, by Drs. Jessica Marie Johnson and Christina Thomas, LifexCode is an ecosystem of labs, projects, community partners, and members exploring, creating, and centering antiracist and decolonial digital humanities practices.   
+[LifexCode: Digital Humanities Against Enclosure](http://lifexcode.org) offers a grammar of refusal and a language of freedom for the (digital) humanities. Founded in 2020, by Drs. Jessica Marie Johnson and Christina Thomas, LifexCode is an ecosystem of labs, projects, community partners, and members exploring, creating, and centering antiracist and decolonial digital humanities practices.  
+ 
 [^1]: Johnson, Jessica Marie. “Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads.” Social Text 36, no. 4 (2018): 57-79. https://doi.org/10.1215/01642472-7145658.
