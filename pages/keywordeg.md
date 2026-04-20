@@ -1,6 +1,6 @@
 ---
-title: Collection Item
-layout: item
+title: Keywords
+layout: page
 permalink: /keywordeg.html
 # see _data/config-metadata.csv for display options
 # do not add content to this file
