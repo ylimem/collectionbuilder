@@ -32,6 +32,7 @@ Morbi ac aliquam eros. Aliquam lectus enim, rhoncus lacinia justo sit amet, cons
    3. Duis a nisl quis nulla tincidunt posuere.
 
  ![Photo by Joanna Kosinska on Unsplash](/objects/history_unsplash.jpg)
+ {% include feature/image.html objectid="history_unsplash" %}
 
 ## Johns Hopkins University Sheridan Libraries and University Museums
 
