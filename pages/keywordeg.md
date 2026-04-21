@@ -1,6 +1,6 @@
 ---
 title: Keywords
-layout: page
+layout: item
 permalink: /keywordeg.html
 # see _data/config-metadata.csv for display options
 # do not add content to this file
@@ -8,7 +8,7 @@ permalink: /keywordeg.html
 
 ![Photo by Joanna Kosinska on Unsplash]({{ "/objects/history_unsplash.jpg" | absolute_url }})
 
-![Photo by Jaredd Craig on Unsplash](collectionbuilder/assets/img/bookmagic.jpg)      
+![Photo by Jaredd Craig on Unsplash](/assets/img/bookmagic.jpg)      
 
 # What is a Keyword? 
 
