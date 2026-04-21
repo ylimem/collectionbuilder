@@ -5,7 +5,6 @@ permalink: /keywordeg.html
 # see _data/config-metadata.csv for display options
 # do not add content to this file
 ---
-![Photo by Joanna Kosinska on Unsplash]({{ "/objects/history_unsplash.jpg" | absolute_url }})
 
 ![Photo by Jaredd Craig on Unsplash](/assets/img/bookmagic.jpg)      
 
@@ -32,7 +31,7 @@ Morbi ac aliquam eros. Aliquam lectus enim, rhoncus lacinia justo sit amet, cons
    2.  Cras nec justo id tellus varius aliquam sit amet eu sapien.
    3. Duis a nisl quis nulla tincidunt posuere.
 
- 
+ ![Photo by Joanna Kosinska on Unsplash](/objects/history_unsplash.jpg)
 
 ## Johns Hopkins University Sheridan Libraries and University Museums
 
