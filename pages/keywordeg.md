@@ -5,7 +5,10 @@ permalink: /keywordeg.html
 # see _data/config-metadata.csv for display options
 # do not add content to this file
 ---
+
 ![Photo by Joanna Kosinska on Unsplash](/objects/history_unsplash.jpg)
+
+![Photo by <a href="https://unsplash.com/@jaredd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jaredd Craig</a> on <a href="https://unsplash.com/photos/view-of-floating-open-book-from-stacked-books-in-library-HH4WBGNyltc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>](/assets/img/bookmagic.jpg)      
 
 # What is a Keyword? 
 
