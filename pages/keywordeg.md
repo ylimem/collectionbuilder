@@ -1,12 +1,10 @@
-
 ---
 title: Keywords
-layout: default
+layout: page
 permalink: /keywordeg.html
 # see _data/config-metadata.csv for display options
 # do not add content to this file
 ---
-
 ![Photo by Joanna Kosinska on Unsplash]({{ "/objects/history_unsplash.jpg" | absolute_url }})
 
 ![Photo by Jaredd Craig on Unsplash](/assets/img/bookmagic.jpg)      
