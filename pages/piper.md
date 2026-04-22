@@ -8,7 +8,7 @@ permalink: /keywordeg.html
 
 ![Photo by Gilder Lehrman Institute of American History](/assets/img/Enslavedchildrenofneworleans.jpg)      
 
-# Childhood? 
+# Childhood 
 
 Childhood is a keyword for Black Louisiana that attempts to encapsulate not just the simple definition of an age range, but also encapsulates the experience of learning and growing as a child. Childhood looked very different between races. Childhood for enslaved children meant starting formal work assignments as early as eleven for physical labor or younger for domestic activities [^1]. While white children could indulge in education and pleasure activities, enslaved children were forced to either be companions – but never friends – of white children or wait to work in the fields with adults. 
 
