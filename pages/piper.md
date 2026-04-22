@@ -15,8 +15,8 @@ The documents under the keyword mention rebellious childhood activities, as in �
 
 ![Photo by Gilder Lehrman Institute of American History](/assets/img/EnslavedchildrenofNewOrleans.jpg) [^3]
  
-[^1]: “Family Life | George Washington’s Mount Vernon.” Accessed April 18, 2026. https://www.mountvernon.org/george-washington/slavery/family-life.
+[^1]: “Family Life, George Washington’s Mount Vernon.” Accessed April 18, 2026. https://www.mountvernon.org/george-washington/slavery/family-life.
 
-[^2]: “Enslaved Children of New Orleans, 1863 | Gilder Lehrman Institute of American History.” Accessed April 13, 2026. https://www.gilderlehrman.org/history-resources/spotlight-primary-source/enslaved-children-new-orleans-1863.
+[^2]: “Enslaved Children of New Orleans, 1863, Gilder Lehrman Institute of American History.” Accessed April 13, 2026. https://www.gilderlehrman.org/history-resources/spotlight-primary-source/enslaved-children-new-orleans-1863.
 
-[^3]: “Enslaved Children of New Orleans, 1863 | Gilder Lehrman Institute of American History.” Accessed April 13, 2026. https://www.gilderlehrman.org/history-resources/spotlight-primary-source/enslaved-children-new-orleans-1863.
+[^3]: “Enslaved Children of New Orleans, 1863, Gilder Lehrman Institute of American History.” Accessed April 13, 2026. https://www.gilderlehrman.org/history-resources/spotlight-primary-source/enslaved-children-new-orleans-1863.
