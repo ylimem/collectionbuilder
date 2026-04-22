@@ -6,7 +6,7 @@ permalink: /keywordeg.html
 # do not add content to this file
 ---
 
-![Photo by Jaredd Craig on Unsplash](/assets/img/bookmagic.jpg)      
+![Photo by Gilder Lehrman Institute of American History](/assets/img/Enslavedchildrenofneworleans.jpg)      
 
 # Childhood? 
 
