@@ -20,7 +20,7 @@ Due to the minimal policing of indigenous peoples at the time of French colonial
 Within all of the history surrounding Indian Slavery, we see themes of resistance and endurance grounded in kinship, practices aligning with the narrative of  [“Cecilia Pursues Freedom for Her Niece, Naneta”](https://docs.k4bl.org/keywords/d0263.html) written in 1793. In this document, we see the ways that Cecilia, the Afro-Indigenous daughter of the Patouca nation (Plains Apache), navigates legislative barriers of Spanish colonial laws which worked to obscure legislation surrounding the illegality of trading enslaved Indigenous people. Despite this, she continues to fight for the freedom of her niece, educating herself on legislation to fight against a system built to continue the exploitation of African and indigenous peoples.
 
 [^1]: Aubert, Guillaume. “‘The Blood of France’: Race and Purity of Blood in the French Atlantic World.” _The William and Mary Quarterly_ 61, no. 3 (2004): 439–78. https://doi.org/10.2307/3491805.
-[^2]: Harrell, Kevin. “Indigenous Slavery.” _64 Parishes_, 23 Sept. 2023, 64parishes.org/entry/indian-slavery.
+[^2]: Harrell, Kevin. “Indigenous Slavery.” _64 Parishes_, 23 Sept. 2023, https://64parishes.org/entry/indian-slavery.
 [^3]:  “Resistance by Enslaved People in Natchez, Mississippi (1719-1861) - 2006-02.” n.d. Www.mshistorynow.mdah.ms.gov. https://www.mshistorynow.mdah.ms.gov/issue/slave-resistance-in-natchez-mississippi-1719-1861.
 [^4]: Becker, Cynthia J. “Confederate Soldiers, Voodoo Queens, and Black Indians: Monuments and Counter-Monuments in New Orleans.” De Arte 54, no. 2 (2019): 41-64
 [^5]: “Creolizing Currents: Bambara / History.” 2026. Bambara-Noaam.org. 2026. https://bambara-noaam.org/history/.
