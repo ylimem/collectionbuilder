@@ -1,19 +1,26 @@
 ---
 title: Raven's Page
-layout: default
+layout: page
 permalink: /raven.html
 # include CollectionBuilder info at bottom
 credits: true
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+# Indian Slavery
+The keyword “Indian Slavery” within the Black Louisiana context describes the existence and exploitation of indigenous lives and labor in colonial Louisiana. Throughout the settler reign of the French and Spanish colonial entities, Indian slavery and indigenous relations among European settler and Black/maroon communities played an important role throughout the land’s history. Upon French colonists’ occupation of Louisiana in the late 17th century, initially regulation of French-Indian relations economically and romantically remained limited. [^1] However, it was not long before the French realized that their less invasive approach of attempting to assimilate indigenous communities into their French standards of society would prove unsuccessful and lead to a reverse cultural-societal exchange: “coureurs de bois (young French men), who left French settlements to trade with Indians… often decided to live and to take sexual partners among [the Indians]. Once there… ‘[they] adopt a savage way of life which consists of doing nothing, in being restrained in nothing, in pursuing all one's urges, and placing oneself beyond the possibility of correction.’” Following this observation, stricter sentiments were applied to demonize interactions between the French and indigenous and counteract the quickly spreading intermarital relations between the two groups.
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+As Kevin Harrell describes: “Desperate for laborers to clear land for cultivation, Jean-Baptiste Le Moyne, sieur de Bienville, hoped to replicate the English model of commercial slavery and petitioned officials in France to exchange Indigenous captives for enslaved African people in the Caribbean… While the scope and scale of the trade varied in effect, region, time, and purpose, it remained violent, destabilizing, market driven, paradoxically destructive and regenerative for many Indigenous communities, and crucial to fueling the economic growth of the Atlantic World. It also helped finance the expansion of the transatlantic slave trade throughout the Western Hemisphere.” [^2]
 
-## Raven's Wildest Story
+French rule in colonial Louisiana which took the form of the 1724 Le Code Noir was a standardized form of [crime & punishment](docs.k4bl.org/keywords_descriptions/crime-punishment.html), drawing from previous French iterations such as the Code Noir of 1685. This pamphlet of rules was manufactured as a means of surveillance and control over the Black body with extreme repercussions at the failing of adherence. With the Code’s primary focus centered around the ways in which Black free or enslaved individuals could conduct themselves on and off of the plantation, their rights and lack thereof to land and crop ownership, and respective punishment, the presence of indigenous communities remained sequestered but allowed as “France feared the destabilizing effects of [Indian] trade would ultimately imperil the small colony’s alliance networks.” This led to them banning any further indigenous enslavement by 1710 with the numbers of indigenous slaves dwindling over the decades in comparison to African slaves.
 
-Once upon a time, Raven went to New Haven, Connecticut, for a conference at Yale University. On their way back to visit a friend in NYC, however, they encountered a very interesting man at the Amtrak train who only spoke Spanish and wanted someone to accompany him on a train to New York City. It was late at night and approaching midnight, so Raven decided to converse with the random man and see if they could help. Little did they know, they would spend the next 4 hours conversing and adventuring Manhattan and the Monyihan Train Station with the man named Manuel until 3 in the morning!
-##### Things I learned:
-1. Getting a Spanish minor paid off but my conversation skills could definitely be better LOL
-2. Dancing with a random man at 3 am is a very New York City experience
-3. I got very lucky with meeting a nice and genuine guy and not a creep lol...
+Due to the minimal policing of indigenous peoples at the time of French colonial reign, instances of Black and indigenous interaction, co-habitation, and revolt scheming remained prevalent with themes of cross community resistance and solidarity ringing strong as the Natchez Revolt of 1729 approached. During this revolt, the Natchez along with enslaved Africans forced to labor within Natchez lands retaliated against the French colonists with approximately 230 people being killed. [^3] Along similar veins, it was not uncommon for maroons to flee to nearby palmetto and cypress swamps inhabited by indigenous communities in order to escape from previous slave masters or conspire to free more people from neighboring plantations. [^4]
+
+![Photo by Peabody Museum, Harvard University](/assets/img/Dessein de Sauvages de Plusieurs Nations.jpg) [^5] 
+
+Within all of the history surrounding Indian Slavery, we see themes of resistance and endurance grounded in kinship, practices aligning with the narrative of  [“Cecilia Pursues Freedom for Her Niece, Naneta”](https://docs.k4bl.org/keywords/d0263.html) written in 1793. In this document, we see the ways that Cecilia, the Afro-Indigenous daughter of the Patouca nation (Plains Apache), navigates legislative barriers of Spanish colonial laws which worked to obscure legislation surrounding the illegality of trading enslaved Indigenous people. Despite this, she continues to fight for the freedom of her niece, educating herself on legislation to fight against a system built to continue the exploitation of African and indigenous peoples.
+
+[^1]: Aubert, Guillaume. “‘The Blood of France’: Race and Purity of Blood in the French Atlantic World.” _The William and Mary Quarterly_ 61, no. 3 (2004): 439–78. https://doi.org/10.2307/3491805.
+[^2]: Harrell, Kevin. “Indigenous Slavery.” _64 Parishes_, 23 Sept. 2023, 64parishes.org/entry/indian-slavery.
+[^3]:  “Resistance by Enslaved People in Natchez, Mississippi (1719-1861) - 2006-02.” n.d. Www.mshistorynow.mdah.ms.gov. https://www.mshistorynow.mdah.ms.gov/issue/slave-resistance-in-natchez-mississippi-1719-1861.
+[^4]: Becker, Cynthia J. “Confederate Soldiers, Voodoo Queens, and Black Indians: Monuments and Counter-Monuments in New Orleans.” De Arte 54, no. 2 (2019): 41-64
+[^5]: “Creolizing Currents: Bambara / History.” 2026. Bambara-Noaam.org. 2026. https://bambara-noaam.org/history/.
